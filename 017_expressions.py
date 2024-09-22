@@ -101,7 +101,8 @@ add_one(add_one(add_one(add_one(add_one(add_one(1))))))
 
 # EXPRESSIONS PLAYGROUND BEGINS
 
-
+def double_then_multiply_by_two(num):
+  return 2 * (num+num)
 
 # EXPRESSIONS PLAYGROUND ENDS
 
